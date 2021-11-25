@@ -1,0 +1,414 @@
+Inserir novas informações: 
+Insira a data de publicação: 18/03/2020
+Insira o numero do boletim: 1
+Insira o numero de confirmados: 0
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 4
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 13
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 19/03/2020
+Insira o numero do boletim: 2
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 4
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 30
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 22/03/2020
+Insira o numero do boletim: 3
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 4
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 33
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 23/03/2020
+Insira o numero do boletim: 4
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 33
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 24/03/2020
+Insira o numero do boletim: 5
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 39
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 25/03/2020
+Insira o numero do boletim: 6
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 51
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 26/03/2020
+Insira o numero do boletim: 7
+Insira o numero de confirmados: 1
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 51
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 27/03/2020
+Insira o numero do boletim: 8
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 482
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 28/03/2020
+Insira o numero do boletim: 9
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 7
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 530
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 29/03/2020
+Insira o numero do boletim: 10
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 11
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 573
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 30/03/2020
+Insira o numero do boletim: 11
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 11
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 614
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 01/04/2020
+Insira o numero do boletim: 12
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 13
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 765
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 02/04/2020
+Insira o numero do boletim: 13
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 13
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 819
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 03/04/2020
+Insira o numero do boletim: 14
+Insira o numero de confirmados: 2
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 21
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 875
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 04/04/2020
+Insira o numero do boletim: 15
+Insira o numero de confirmados: 3
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 26
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 884
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 05/04/2020
+Insira o numero do boletim: 16
+Insira o numero de confirmados: 3
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 33
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 892
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 06/04/2020
+Insira o numero do boletim: 17
+Insira o numero de confirmados: 3
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 33
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 940
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 07/04/2020
+Insira o numero do boletim: 18
+Insira o numero de confirmados: 3
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 36
+Insira o numero de obitos: 0
+Numero de casos gripais totais: 1088
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 08/04/2020
+Insira o numero do boletim: 19
+Insira o numero de confirmados: 4
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 38
+Insira o numero de obitos: 1
+Numero de casos gripais totais: 1154
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 09/04/2020
+Insira o numero do boletim: 20
+Insira o numero de confirmados: 6
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 50
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1170
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 10/04/2020
+Insira o numero do boletim: 21
+Insira o numero de confirmados: 6
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 51
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1193
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 11/04/2020
+Insira o numero do boletim: 22
+Insira o numero de confirmados: 6
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 51
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1201
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 12/04/2020
+Insira o numero do boletim: 23
+Insira o numero de confirmados: 6
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 51
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1217
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 13/04/2020
+Insira o numero do boletim: 24
+Insira o numero de confirmados: 7
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 62
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1245
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 14/04/2020
+Insira o numero do boletim: 25
+Insira o numero de confirmados: 7
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 71
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1291
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 15/04/2020
+Insira o numero do boletim: 26
+Insira o numero de confirmados: 7
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 122
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1301
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 16/04/2020
+Insira o numero do boletim: 27
+Insira o numero de confirmados: 8
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 163
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1317
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 17/04/2020
+Insira o numero do boletim: 28
+Insira o numero de confirmados: 10
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 173
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1340
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 18/04/2020
+Insira o numero do boletim: 29
+Insira o numero de confirmados: 10
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 173
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1365
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 19/04/2020
+Insira o numero do boletim: 30
+Insira o numero de confirmados: 10
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 183
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1375
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 20/04/2020
+Insira o numero do boletim: 31
+Insira o numero de confirmados: 10
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 184
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1413
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 21/04/2020
+Insira o numero do boletim: 32
+Insira o numero de confirmados: 10
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 192
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1429
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 22/04/2020
+Insira o numero do boletim: 33
+Insira o numero de confirmados: 16
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 202
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1513
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 23/04/2020
+Insira o numero do boletim: 34
+Insira o numero de confirmados: 16
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 216
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1538
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 24/04/2020
+Insira o numero do boletim: 35
+Insira o numero de confirmados: 22
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 223
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1615
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 25/04/2020
+Insira o numero do boletim: 36
+Insira o numero de confirmados: 22
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 229
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1635
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 26/04/2020
+Insira o numero do boletim: 37
+Insira o numero de confirmados: 25
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 401
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1647
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 27/04/2020
+Insira o numero do boletim: 43
+Insira o numero de confirmados: 28
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 418
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1678
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 28/04/2020
+Insira o numero do boletim: 44
+Insira o numero de confirmados: 29
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 419
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1788
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 29/04/2020
+Insira o numero do boletim: 45
+Insira o numero de confirmados: 30
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 430
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1806
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 30/04/2020
+Insira o numero do boletim: 46
+Insira o numero de confirmados: 30
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 459
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1840
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 01/05/2020
+Insira o numero do boletim: 47
+Insira o numero de confirmados: 33
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 471
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1862
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 02/05/2020
+Insira o numero do boletim: 48
+Insira o numero de confirmados: 33
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 471
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1880
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 03/05/2020
+Insira o numero do boletim: 49
+Insira o numero de confirmados: 33
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 471
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1916
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 04/05/2020
+Insira o numero do boletim: 50
+Insira o numero de confirmados: 33
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 477
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 1974
+Deseja Continuar? S/N S
+Inserir novas informações: 
+Insira a data de publicação: 05/05/2020
+Insira o numero do boletim: 51
+Insira o numero de confirmados: 35
+Insira o numero de recuperados: 0
+Insira o numero de descartados: 489
+Insira o numero de obitos: 2
+Numero de casos gripais totais: 2046
+Deseja Continuar? S/N N
