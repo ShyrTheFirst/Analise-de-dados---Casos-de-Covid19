@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 #plotar planilhas#
 
-planilha = pd.read_excel("casos_covid.xlsx")
+planilha = pd.read_excel("casos_covid_1a100.xlsx")
 
 colunas = ["Confirmados","Recuperados","Descartados","Obitos","Sindrome Gripal Total"]
 
