@@ -42,6 +42,6 @@ casos_covid_df = pd.DataFrame(
      "Sindrome Gripal Total":data_gripe_total},
     index=data_data_publi)
 
-casos_covid_df.to_excel("casos_covid_cont.xlsx",sheet_name="Casos São Carlos", index=True)
+casos_covid_df.to_excel("casos_covid_cont3.xlsx",sheet_name="Casos São Carlos", index=True)
 
 
